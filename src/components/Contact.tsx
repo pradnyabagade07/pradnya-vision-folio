@@ -9,19 +9,19 @@ import { useToast } from "@/hooks/use-toast";
 
 const socialLinks = [
   {
-    name: "Email",
+    name: "pradnyabagade07@gmail.com",
     icon: Mail,
     href: "mailto:pradnyabagade07@gmail.com",
     color: "hover:text-primary",
   },
   {
-    name: "LinkedIn",
+    name: "linkedin.com/in/pradnya-bagade-aa8660258",
     icon: Linkedin,
     href: "https://www.linkedin.com/in/pradnya-bagade-aa8660258",
     color: "hover:text-[#0077B5]",
   },
   {
-    name: "GitHub",
+    name: "github.com/pradnyabagde07",
     icon: Github,
     href: "https://github.com/pradnyabagde07",
     color: "hover:text-foreground",

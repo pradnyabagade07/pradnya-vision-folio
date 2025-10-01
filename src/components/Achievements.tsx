@@ -25,8 +25,8 @@ const achievements = [
   },
   {
     year: "2023-Present",
-    title: "Joint Treasurer - ACES",
-    description: "Leading financial operations for computer engineering society",
+    title: "President - ACES",
+    description: "Leading the computer engineering society and driving innovation",
     icon: Users,
     color: "text-primary",
   },

@@ -11,19 +11,19 @@ const socialLinks = [
   {
     name: "Email",
     icon: Mail,
-    href: "mailto:pradnya.bagade@example.com",
+    href: "mailto:pradnyabagade07@gmail.com",
     color: "hover:text-primary",
   },
   {
     name: "LinkedIn",
     icon: Linkedin,
-    href: "https://linkedin.com",
+    href: "https://www.linkedin.com/in/pradnya-bagade-aa8660258",
     color: "hover:text-[#0077B5]",
   },
   {
     name: "GitHub",
     icon: Github,
-    href: "https://github.com",
+    href: "https://github.com/pradnyabagde07",
     color: "hover:text-foreground",
   },
 ];
